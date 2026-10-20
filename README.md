@@ -141,6 +141,10 @@ REST APIs · WebSockets
 
 ## Behind the commits
 
+<a href="https://github.com/Ghovkg02?tab=overview"><img width="100%" src="https://ghchart.rshah.org/39d353/Ghovkg02" alt="Ghovkg02’s GitHub contribution calendar with green contribution squares" /></a>
+
+<br/><br/>
+
 <img width="420" src="https://github-readme-stats.vercel.app/api?username=Ghovkg02&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A5B4FC&icon_color=22D3EE&text_color=C9D1D9&rank_icon=percentile" alt="GitHub statistics for Ghovkg02" />
 <img width="420" src="https://streak-stats.demolab.com?user=Ghovkg02&theme=github-dark-blue&hide_border=true&background=0D1117&ring=A5B4FC&fire=22D3EE&currStreakLabel=67E8F9" alt="GitHub contribution streak for Ghovkg02" />
 
