@@ -2,7 +2,9 @@
 
 <img src="assets/hero.webp" width="100%" alt="Tens of thousands of particles swirl as a galaxy, then assemble into the name GHOVINDH: systems engineer, founder, Bengaluru." />
 
-<img src="assets/orbit.webp" width="100%" alt="A rotating particle planet with eight systems in orbit: workforce, computer vision, energy trading, solar ERP, pricing engine, hospitality, marketplaces, offline mobile. 15 systems in production, 1.9k commits, 10 industries." />
+<img src="assets/orbit.webp" width="100%" alt="A rotating particle planet with fifteen industries in orbit: HR and payroll, energy trading, power utilities, solar EPC, hospitality, travel and stays, retail analytics, automotive, art and collectibles, agri commerce, events and expos, festive retail, interiors and supply, city services, field sales." />
+
+<img src="assets/arsenal.webp" width="100%" alt="A warp-speed flight through 57 tools: TypeScript, JavaScript, Python, Java, C++, Bash, SQL, React, Next.js, React Native, Expo, Capacitor, Tailwind, Vite, Android, iOS, Node.js, Express, Django, Django REST, FastAPI, Payload CMS, Prisma, Auth.js, Socket.io, BullMQ, Celery, WebSockets, REST APIs, PostgreSQL, Redis, MongoDB, SQLite, Supabase, PyTorch, TensorFlow, YOLOv8, OpenCV, ByteTrack, LLMs, RAG, Embeddings, ML Kit, Docker, Linux, Nginx, Caddy, PM2, GitHub Actions, AWS, Cloudflare, Vercel, Playwright, Vitest, Razorpay, Figma, Git." />
 
 <br/><br/>
 
@@ -12,11 +14,7 @@
 
 <br/><br/>
 
-<details>
-<summary><sub>signal</sub></summary>
-<br/>
 <img src="https://github-readme-stats.vercel.app/api?username=Ghovkg02&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=BBBBBB&icon_color=FFFFFF&ring_color=FFFFFF&rank_icon=percentile" width="49%" alt="GitHub statistics" />
 <img src="https://streak-stats.demolab.com?user=Ghovkg02&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStrkNum=FFFFFF&sideNums=FFFFFF&currStrkLabel=FFFFFF&sideLabels=999999&dates=777777&stroke=333333" width="49%" alt="GitHub streak" />
-</details>
 
 </div>
