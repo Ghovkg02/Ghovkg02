@@ -14,7 +14,7 @@
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ghovkg02&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=BBBBBB&icon_color=FFFFFF&ring_color=FFFFFF&rank_icon=percentile" width="49%" alt="GitHub statistics" />
+<img src="assets/stats.svg" width="49%" alt="GitHub statistics" />
 <img src="https://streak-stats.demolab.com?user=Ghovkg02&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=999999&dates=777777&stroke=333333" width="49%" alt="GitHub streak" />
 
 </div>
