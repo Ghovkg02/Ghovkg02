@@ -38,6 +38,9 @@ jobs:
           path: assets/stats.svg
           options: username=Ghovkg02&show_icons=true&include_all_commits=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=BBBBBB&icon_color=FFFFFF&ring_color=FFFFFF&rank_icon=percentile&number_format=long&disable_animations=true
 
+      - name: Rescore rank
+        run: python3 tools/rank.py assets/stats.svg
+
       - name: Publish changed card
         run: |
           git config user.name 'github-actions[bot]'
